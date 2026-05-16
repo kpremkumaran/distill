@@ -2,7 +2,7 @@
 
 > An AI-powered classroom assessment tool by Inceptez.  
 > Paste a transcript → get a concept map + adaptive quiz + Dr. Priya's interview debrief.
-New Line added - PK
+
 ---
 
 ## What It Does
